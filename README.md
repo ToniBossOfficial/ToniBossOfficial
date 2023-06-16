@@ -1,31 +1,23 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hi, I'm Toni Boss! 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"> Hi, I'm Toni Boss👋</h1></summary>
+  </ul>
+</div>
 
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+    </ul>
+  </div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,py,qt,replit,bots,git,mysql,unreal,unity,pr" />
+  </a>
+</p>
 
+<div align="center">
 ## 🚀 About Me
-I'm a full stack developer...
-
-
-## 🛠 Skills (Languages and Technologies I know)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,py,qt,replit,bots,git,mysql,unreal,unity,pr)](https://skillicons.dev)
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
-
+I'm a full stack developer. I can make simple and complex applications but I an not a professional, yet. I am still learning!
+</div>
