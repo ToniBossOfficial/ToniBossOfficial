@@ -13,11 +13,23 @@
   </div>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,py,qt,replit,bots,git,mysql,unreal,unity,pr" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,qt,replit,py,git,mysql,unreal,unity,pr,figma,discord" />
   </a>
 </p>
 
 <div align="center">
-## 🚀 About Me
-I'm a full stack developer. I can make simple and complex applications but I an not a professional, yet. I am still learning!
+  <h2> 🚀 About Me </h2>
+I'm a full stack developer. I can make simple and complex applications but I an not a professional, yet. I am still learning!<br><b>Coding is a journey where every bug you squash is a victory and every line you write is a step forward.</b>
 </div>
+
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Know me better...***
+
+✔ Pronouns: ***He/Him*** <br>
+✔ I’m currently Developing **The unreal** discord **bot**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ Ask me about anything, I am happy to help!<br>
+<br><br><br><br><br><br>
+#
+Disclaimer: "Toni Boss" is not my real name; it's simply a creative alias used for online purposes.
